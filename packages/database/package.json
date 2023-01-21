@@ -1,0 +1,17 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./prisma/client/index.js",
+  "types": "./prisma/client/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.9.0",
+    "prisma": "^4.9.0"
+  }
+}
